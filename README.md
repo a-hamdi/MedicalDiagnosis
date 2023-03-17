@@ -12,7 +12,7 @@ Overall, the goal of medical diagnosis projects is to improve the accuracy and e
 
 
 
-#Acknowledgements
+# Acknowledgements
 
 Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
 
